@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:0,ARD
+https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/master.m3u8
+#EXTINF:0,ZDF
+https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
+#EXTINF:0,Tagesschau 24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:0,ARD Alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+#EXTINF:0,ZDF Neo
+https://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8
+#EXTINF:0,ZDF Info
+https://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8
+#EXTINF:0,ARTE
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:0,ONE
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
+#EXTINF:0,PHOENIX
+https://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8
+#EXTINF:0,DW
+https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF:0,KIKA
+https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8
+#EXTINF:0,3sat
+https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
+#EXTINF:0,WELT
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+#EXTINF:0,N-TV
+https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/index_1500_av-p.m3u8
+#EXTINF:0,BR
+https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:0,HR
+https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:0,MDR
+https://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8
+#EXTINF:0,NDR
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:0,SR
+https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
+#EXTINF:0,RBB BERLIN
+https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
+#EXTINF:0,RBB BRANDENBURG
+https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/master.m3u8
+#EXTINF:0,SWR
+https://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
+#EXTINF:0,SWR RP
+https://swrrp-lh.akamaihd.net/i/swrrp_live@196739/master.m3u8
+#EXTINF:0,WDR
+https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8
